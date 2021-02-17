@@ -1,1 +1,1 @@
-All the repositories of this Organization are private. Request access for `READ-ONLY` authorization. The repositories contain private IPs for a virtual STM32 functionalities (TIMs, GPIOs, I2C, U(S)ART, CAN) as well as a virtual temperature/humidity sensor. The virtual prototype has been tested and compared to the behavior of a STM32F407VG, which is remotely the same.
+
